@@ -23,7 +23,7 @@ Backend giả lập: JSON Server.
 
 Cấu trúc thư mục
 
-02-backend-json-server-master/
+```02-backend-json-server-master/
 │── node_modules/ # thư viện cài qua npm
 │── db.json # database chính (dữ liệu blogs)
 │── backup_db.json # file backup database
@@ -38,6 +38,7 @@ Cấu trúc thư mục
 │── todo2.html # giao diện chính (form + bảng blog)
 │── todo2.css # style giao diện
 │── todo2.js # logic CRUD gọi API
+```
 
 📑 Cấu trúc dữ liệu db.json
 {
