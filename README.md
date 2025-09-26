@@ -1,7 +1,7 @@
 📘 BlogCrud_Vanish
 
 Ứng dụng Blog CRUD đơn giản cho phép người dùng xem, thêm và xóa blog.
-Dữ liệu được quản lý thông qua JSON Server, giao diện xây dựng bằng HTML, CSS và JavaScript (Vanilla JS).
+Dữ liệu được quản lý thông qua JSON Server, giao diện xây dựng bằng HTML, CSS và JavaScript.
 
 Ứng dụng này tương tự như một Todo App mở rộng, nơi bạn có thể thao tác trực tiếp với dữ liệu blog.
 
