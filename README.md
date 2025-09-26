@@ -23,7 +23,8 @@ Backend giả lập: JSON Server.
 
 Cấu trúc thư mục
 
-```02-backend-json-server-master/
+```
+02-backend-json-server-master/
 │── node_modules/ # thư viện cài qua npm
 │── db.json # database chính (dữ liệu blogs)
 │── backup_db.json # file backup database
