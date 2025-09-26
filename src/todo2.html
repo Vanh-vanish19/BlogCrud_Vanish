@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Demo</title>
+    <link rel="stylesheet" href="todo2.css">
+</head>
+<body>
+    <h1>My Blog</h1>
+
+    <!-- Form thêm blog -->
+    <form id="blogForm">
+        <label for="title">Title:</label>
+        <input type="text" id="title" placeholder="Enter blog title" required>
+        <br><br>
+
+        <label for="author">Author:</label>
+        <input type="text" id="author" placeholder="Enter author name" required>
+        <br><br>
+
+        <label for="content">Content:</label>
+        <input type="text" id="content" placeholder="Enter blog content" required>
+        <br><br>
+
+        <button type="submit" id="saveBtn">Add Blog</button>
+    </form>
+
+    <hr>
+    <table id="blogTable" border="1" cellspacing="0" cellpadding="5">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Content</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <script src="todo2.js"></script>
+</body>
+</html>
