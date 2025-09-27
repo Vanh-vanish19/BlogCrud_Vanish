@@ -40,7 +40,7 @@ Cấu trúc thư mục
 │── todo2.css # style giao diện
 │── todo2.js # logic CRUD gọi API
 ```
-
+```
 📑 Cấu trúc dữ liệu db.json
 {
   "blogs": [
@@ -58,7 +58,7 @@ Cấu trúc thư mục
     }
   ]
 }
-
+```
 ▶️ Cách chạy project
 
 Cài dependencies:
